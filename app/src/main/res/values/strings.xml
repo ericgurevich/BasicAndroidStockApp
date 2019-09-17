@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab9</string>
+
+    <string name="symbol">Stock Symbol</string>
+    <string name="price">Current Price</string>
+    <string name="empty">You have no stocks. Add one using the button.</string>
+    <string name="refresh">REFRESHED YOUR STOCKS BOI</string>
+    <string name="dialogtitle">Add a stock symbol!</string>
+    <string name="dialogok">OK</string>
+    <string name="dialogcancel">Cancel</string>
+    <string name="nostock">Stock not found</string>
+    <string name="opening">Opening Price</string>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab9 en español</string>
+
+    <string name="symbol">Símbolo de stock</string>
+    <string name="price">Precio actual</string>
+    <string name="empty">No tienes acciones. Añadir uno con el botón.</string>
+    <string name="refresh">REFRESCADO SUS EXISTENCIAS</string>
+    <string name="dialogtitle">Añadir un símbolo de stock!</string>
+    <string name="dialogok">DE ACUERDO</string>
+    <string name="dialogcancel">Cancelar</string>
+    <string name="nostock">Stock no encontrado</string>
+    <string name="opening">Precio de apertura</string>
+</resources>
